@@ -2,7 +2,7 @@
 
 Convert Master is a multi-tool web app built with Next.js. It provides free, browser-based utilities for image conversions/optimization and text transformations, plus a set of handy micro-tools.
 
-Live site: https://www.convert-master.online/
+Live site: https://tool-website-beta.vercel.app/
 
 ## Features
 
